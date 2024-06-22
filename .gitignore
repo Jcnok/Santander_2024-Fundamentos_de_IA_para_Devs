@@ -179,4 +179,7 @@ pyrightconfig.json
 # vscode
 .vscode
 
+# Zone.Identifier
+.gitignore:Zone.Identifier
+
 # End of https://www.toptal.com/developers/gitignore/api/python
