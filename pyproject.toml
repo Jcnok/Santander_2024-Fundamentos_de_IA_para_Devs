@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "santander-2024-fundamentos-de-ia-para-devs"
+version = "0.1.0"
+description = "Repositório com a resolução dos desafios e projetos do bootcamp da DIO"
+authors = ["Julio Okuda <julio.okuda@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
