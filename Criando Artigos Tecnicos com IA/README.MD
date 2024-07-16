@@ -27,18 +27,16 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 <a href="https://web.dio.me/articles/diretivas-estruturais-versus-diretivas-de-atributo-qual-usar-no-angular?back=%2Farticles&page=1&order=oldest#state=044ab194-1e3a-4b8e-95fe-c0f6b3b5260e&session_state=efdc9591-d6fe-4d79-ae97-e58af45061da&code=5ac231e4-c722-46c3-bb7f-32ce5363fb78.efdc9591-d6fe-4d79-ae97-e58af45061da.a889d5a2-0d02-46df-83a5-28a1b4ac39ab" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
+<a href="https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/blob/main/Criando%20Artigos%20Tecnicos%20com%20IA/scripts/exampleDB.sql"> 🎁Clique aqui para acessar o script e BD e das Consultas SQL.</a>
+
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagens
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
-## 📄 Prompts e ferramentas
-
-
-ChatGPT：
-
-# Checklist para Gerar Artigos de Qualidade:
+## Checklist para Gerar Artigos de Qualidade:
 
 [x] - Definir o Assunto;
 
@@ -50,8 +48,10 @@ ChatGPT：
 
 [x] - Postar o Artigo com um call to action;
 
-## Assunto: SQL para Análise de Dados
-## Prompts:
+## 📄 Prompts ChatGPT：
+
+* Assunto: SQL para Análise de Dados
+*  Prompts:
 > Crie 10 headlines para nomes de artigos sobre o assunto "SQL para Análise de Dados".
 ## Imagem de Capa:
 > Crie um prompt para o midjourney que crie uma imagem realista e profissional sobre o título e sobre o assundo do meu artigo, use um estilo próprio para artigos.
@@ -78,7 +78,7 @@ Conteúdo: Gerado por IA e revisado por Humano. |
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• SQL
+  • data analysts
 
 
 ## ✨ Features
