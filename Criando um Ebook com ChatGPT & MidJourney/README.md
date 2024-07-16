@@ -25,6 +25,8 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
+Para seguir os exemplos deste eBook, você pode usar o script de exemplo [exampleDB.sql](https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/blob/main/Criando%20um%20Ebook%20com%20ChatGPT%20%26%20MidJourney/data/exampleDB.sql) para criar o banco de dados.​
+
 <a href="https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/blob/main/Criando%20um%20Ebook%20com%20ChatGPT%20%26%20MidJourney/output/ebook%20-%20SQL%20Mastery.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
