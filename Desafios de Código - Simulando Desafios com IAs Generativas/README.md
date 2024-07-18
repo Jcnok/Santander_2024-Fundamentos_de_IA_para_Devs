@@ -1,6 +1,7 @@
-# Desafios de Código - Simulando desafios com IAs Generativas
+<img src="https://images.unsplash.com/photo-1576836165612-8bc9b07e7778?ixlib=rb-4.0.3&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;w=1200" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 30vh; opacity: 1; object-position: center 48%;">
 
 ---
+# Desafios de Código - Simulando desafios com IAs Generativas
 
 # Desafio 1: **Analisando Sentimentos**
 
