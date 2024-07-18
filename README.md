@@ -26,8 +26,14 @@ Repositório com todos os projetos e desafios!
 
 ## Resolução dos Desafios:
 
-* **Desafio de Código:** [Todos os desafios]("em desenvolvimento")
-* **Desafio de Projeto:** [Criando um Ebook com ChatGPT & MidJourney](https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/tree/main/Criando%20um%20Ebook%20com%20ChatGPT%20%26%20MidJourney)
-* **Desafio de Projeto**: [Criando Artigos Tecnicos com IA](https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/tree/main/Criando%20Artigos%20Tecnicos%20com%20IA);
-* **Desafio de Projeto** : [Criando um Podcast com IAs Generativas]("Em desenvolvimento");
-* **Desafio de Projeto** : [Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!]("em desenvolvimento");
+* **Desafios de Código:** 
+  * [Analisando Sentimentos](https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/tree/main/Desafios%20de%20C%C3%B3digo%20-%20Simulando%20Desafios%20com%20IAs%20Generativas#desafio-1-analisando-sentimentos)
+  * [Avaliando Prompts](https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/tree/main/Desafios%20de%20C%C3%B3digo%20-%20Simulando%20Desafios%20com%20IAs%20Generativas#desafio-2-avaliando-prompts)
+  * [Refatorando com Eficiência](https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/tree/main/Desafios%20de%20C%C3%B3digo%20-%20Simulando%20Desafios%20com%20IAs%20Generativas#desafio-3-refatorando-com-efici%C3%AAncia)
+  * [Sugestão de Compras Inteligente](https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/tree/main/Desafios%20de%20C%C3%B3digo%20-%20Simulando%20Desafios%20com%20IAs%20Generativas#desafio-4-sugest%C3%A3o-de-compras-inteligente)
+  * [Calculando Métricas de Avaliação](https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/tree/main/Desafios%20de%20C%C3%B3digo%20-%20Simulando%20Desafios%20com%20IAs%20Generativas#desafio-5-calculando-m%C3%A9tricas-de-avalia%C3%A7%C3%A3o)
+* **Desafios de Projeto:** 
+  * [Criando um Ebook com ChatGPT & MidJourney](https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/tree/main/Criando%20um%20Ebook%20com%20ChatGPT%20%26%20MidJourney)
+  * [Criando Artigos Tecnicos com IA](https://github.com/Jcnok/Santander_2024-Fundamentos_de_IA_para_Devs/tree/main/Criando%20Artigos%20Tecnicos%20com%20IA);
+  * [Criando um Podcast com IAs Generativas]("Em desenvolvimento");
+  * [Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!]("em desenvolvimento");
