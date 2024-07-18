@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1576836165612-8bc9b07e7778?ixlib=rb-4.0.3&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;w=800" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 40vh; opacity: .5; object-position: center 48%;">
+<img src="https://images.unsplash.com/photo-1639431682289-72b9ebb75895?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 40vh; opacity: .5; object-position: center 48%;">
 
 ---
 # Desafios de Código - Simulando desafios com IAs Generativas
